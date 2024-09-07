@@ -1,3 +1,4 @@
+#prompts.py
 def generate_prompt(context):
     return f"""You are an expert programmer who is a master of the terminal.
     Your task is to suggest completions for the following partial command.

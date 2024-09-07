@@ -65,6 +65,3 @@ complete -F _ai_completions ai
 
 log_message "ai-complete.sh initialized with completion"
 
-# Test Python script
-log_message "Testing Python script execution"
-python3 "$PYTHON_SCRIPT" test 2>> "$LOG_FILE" || log_message "Error executing Python script"
