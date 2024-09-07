@@ -1,0 +1,5 @@
+# File: requirements.txt
+groq
+python-dotenv
+psutil
+GitPython
